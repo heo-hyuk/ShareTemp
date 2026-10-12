@@ -1,5 +1,18 @@
 {
   "$schema": "./schema.json",
-  "updated": "2026-09-01",
-  "items": []
+  "updated": "2026-10-12",
+  "items": [
+    {
+      "title": "초대장 강의 — 학습자료 묶음 (zip)",
+      "description": "기본편 강별 프롬프트, 4강 설치가이드(PDF), CLAUDE.md·CLI 최적화 가이드를 한 번에 받는 묶음",
+      "category": "강의자료",
+      "file": "files/초대장_강의_학습자료.zip"
+    },
+    {
+      "title": "초대장 강의(기본편) — 강별 프롬프트 모음",
+      "description": "인프런 「비전공자가 AI로 만든 진짜 서비스」 기본편 실습용 프롬프트·명령어 모음",
+      "category": "강의자료",
+      "file": "files/초대장_강별_프롬프트.md"
+    }
+  ]
 }
